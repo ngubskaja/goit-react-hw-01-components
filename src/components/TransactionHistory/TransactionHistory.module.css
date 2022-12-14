@@ -1,0 +1,17 @@
+.title_list{
+    background-color: #ba98bb;
+}
+
+.transaction_history{
+    text-align: center;
+    width: 350px;
+    background-color: #d9dee3;
+}
+
+.title{
+    padding: 5px;
+}
+.lis{
+    padding: 5px;
+    background-color: #ccbccd;
+}
